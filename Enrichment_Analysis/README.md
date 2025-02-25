@@ -34,3 +34,16 @@ In bioinformatics, enrichment analysis is widely applied in areas such as **gene
 ## Conclusion:
 Enrichment analysis is an essential tool in genomics and bioinformatics. It helps in transforming large, complex data into meaningful insights by identifying significant patterns, pathways, and biological processes, guiding further biological research and discovery.
 
+
+
+
+# Projects
+
+Here are some of the projects related to Functional Enrichment Analysis.
+
+| Topic Name                           | Description                                                             | Google Colab Notebook                                      | YouTube Video Link                                      |
+|--------------------------------------|-------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------|
+| **Enrichment Analysis**              | This project performs enrichment analysis to identify over-represented pathways in a dataset. | [Enrichment_Analysis.ipynb](https://colab.research.google.com/github/yourusername/YourRepo/Enrichment_Analysis.ipynb) | [Watch Video](https://www.youtube.com/watch?v=your_video_link) |
+| **Functional Enrichment Visualization** | Visualizes functional enrichment results through various plots like bar graphs and volcano plots. | [Visualization_Functional_Enrichment_Result.ipynb](https://colab.research.google.com/github/yourusername/YourRepo/Visualization_Functional_Enrichment_Result.ipynb) | [Watch Video](https://www.youtube.com/watch?v=your_video_link) |                                                  |
+
+
