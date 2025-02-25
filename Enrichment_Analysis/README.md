@@ -37,13 +37,13 @@ Enrichment analysis is an essential tool in genomics and bioinformatics. It help
 
 
 
-# Projects
+# Youtube Lectures Details
 
 Here are some of the projects related to Functional Enrichment Analysis.
 
 | Topic Name                           | Description                                                             | Google Colab Notebook                                      | YouTube Video Link                                      |
 |--------------------------------------|-------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------|
-| **Enrichment Analysis**              | This project performs enrichment analysis to identify over-represented pathways in a dataset. | [Enrichment_Analysis.ipynb](https://colab.research.google.com/drive/1uUH6fXElxOgzyUTOMLIloyfqHbVGBP0h) | [Watch Video](https://www.youtube.com/watch?v=your_video_link) |
-| **Functional Enrichment Visualization** | Visualizes functional enrichment results through various plots like bar graphs and volcano plots. | [Visualization_Functional_Enrichment_Result.ipynb](https://colab.research.google.com/drive/1Uwj5Oc_Klf_fzkjTl6ewE5DP2QTQiyme) | [Watch Video](https://www.youtube.com/watch?v=your_video_link) |                                                  |
+| **Enrichment Analysis**              | This notebook contain code for enrichment analysis. | [Enrichment_Analysis.ipynb](https://colab.research.google.com/drive/1uUH6fXElxOgzyUTOMLIloyfqHbVGBP0h) | [Watch Video](https://www.youtube.com/watch?v=your_video_link) |
+| **Functional Enrichment Visualization** | This notebook contain code use to visualizes functional enrichment results. | [Visualization_Functional_Enrichment_Result.ipynb](https://colab.research.google.com/drive/1Uwj5Oc_Klf_fzkjTl6ewE5DP2QTQiyme) | [Watch Video](https://www.youtube.com/watch?v=your_video_link) |                                                  |
 
 
