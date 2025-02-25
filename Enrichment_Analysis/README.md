@@ -39,7 +39,7 @@ Enrichment analysis is an essential tool in genomics and bioinformatics. It help
 
 # Youtube Lectures Details
 
-Here are some of the projects related to Functional Enrichment Analysis.
+Here are some of the descrption and links related to Functional Enrichment Analysis.
 
 | Topic Name                           | Description                                                             | Google Colab Notebook                                      | YouTube Video Link                                      |
 |--------------------------------------|-------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------|
